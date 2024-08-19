@@ -1,5 +1,3 @@
-# Looking busy
-
  # **LookingBusy - The Ultimate Fake Build Process**
 
 Ever find yourself needing to look intensely busy when your boss strolls by, but you're actually waiting for inspiration (or the next coffee break)? Or maybe you just want to dazzle your coworkers with an impressive-looking build process? **LookingBusy** is here to save the day!
