@@ -1,0 +1,30 @@
+{
+  "name": "lookingbusy",
+  "version": "1.0.0",
+  "description": "A fake React build process simulator",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "lookingbusy": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:react": "node index.js --framework react",
+    "start:vue": "node index.js --framework vue",
+    "start:svelte": "node index.js --framework svelte",
+    "start:angular": "node index.js --framework angular"
+  },
+  "keywords": [
+    "cli",
+    "react",
+    "simulator"
+  ],
+  "author": "singapaul",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "faker": "^5.5.3",
+    "ora": "^6.1.0",
+    "yargs": "^17.7.2"
+  }
+}
