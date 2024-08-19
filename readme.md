@@ -6,7 +6,7 @@ LookingBusy is a lighthearted app that fakes a build process, complete with prog
 
 ## Demo
 
-![Demo GIF](lookingbusy.gif)
+![Demo GIF](lookingbusydemo.gif)
 
 
 ## **Key Features:**
