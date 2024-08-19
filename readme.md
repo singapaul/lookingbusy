@@ -4,6 +4,11 @@ Ever find yourself needing to look intensely busy when your boss strolls by, but
 
 LookingBusy is a lighthearted app that fakes a build process, complete with progress bars, pseudo-technical lingo, and random status updates. It’s the ideal tool for keeping up appearances when you need a breather—or just want to have some fun at work.
 
+## Demo
+
+![Demo GIF](lookingbusy.gif)
+
+
 ## **Key Features:**
 - 🛠️ **Fake Builds**: Let LookingBusy simulate intricate and time-consuming build processes that look critical to your work.
 - 📊 **Dynamic Progress Bars**: Keep your screen filled with convincing progress indicators, ensuring everyone around thinks you’re knee-deep in code.
