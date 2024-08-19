@@ -1,6 +1,6 @@
 {
   "name": "lookingbusy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A fake React build process simulator",
   "main": "index.js",
   "type": "module",
